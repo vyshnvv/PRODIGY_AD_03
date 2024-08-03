@@ -1,16 +1,8 @@
-# stopwatch
+# Stopwatch.
 
-A new Flutter project.
 
-## Getting Started
+![ss_03](https://github.com/user-attachments/assets/55319d77-5358-4fe1-b446-63de471644d6)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Steps to install the application:
+  1. flutter build apk (app-release.apk file will be created at "build/app/outputs/flutter-apk/")
+  2. flutter install
